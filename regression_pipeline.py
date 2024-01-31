@@ -24,7 +24,7 @@ param_grids = {
     'Random Forest': {'n_estimators': [50, 100, 150], 'max_depth': [None, 10, 20, 30]},
     'SVR': {'C': [0.1, 1, 10], 'kernel': ['linear', 'rbf']},
     'K-Nearest Neighbors': {'n_neighbors': [3, 5, 7], 'weights': ['uniform', 'distance']},
-    'Linear Regression': {'normalize': [True, False]},
+    'Linear Regression': {'fit_intercept': [True, False], 'positive': [True, False], 'copy_X': [True, False], 'n_jobs': [None, -1]},
     'Gradient Boosting': {'n_estimators': [50, 100, 150], 'learning_rate': [0.01, 0.1, 0.2]},
     'AdaBoost': {'n_estimators': [50, 100, 150], 'learning_rate': [0.01, 0.1, 0.2]}
 }
