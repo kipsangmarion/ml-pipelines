@@ -1,4 +1,4 @@
-# ml-essentials README
+# ML Pipelines
 
 This repository contains Python scripts for building custom machine learning pipelines for classification and regression tasks, as well as a Jupyter notebook demonstrating their usage with sample datasets.
 
