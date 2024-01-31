@@ -21,13 +21,13 @@ This Jupyter notebook demonstrates the usage of both the classification and regr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/kipsangmarion/ml-pipelines.git
    ```
 
 2. Navigate to the repository:
 
    ```bash
-   cd your-repository
+   cd ml-pipelines
    ```
 
 3. Run the `Example_Usage.ipynb` notebook in your Jupyter environment to see practical examples of using the classification and regression pipelines with sample datasets.
