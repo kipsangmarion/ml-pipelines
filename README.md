@@ -12,7 +12,7 @@ This Python script provides a custom machine-learning pipeline for classificatio
 
 Similar to the classification pipeline, this Python script focuses on regression tasks. It initializes multiple regressors, performs hyperparameter tuning, and conducts cross-validation for all models. The script selects the best-regressing model based on their mean squared error.
 
-### 3. `example_usage.ipynb`
+### 3. `Example_Usage.ipynb`
 
 This Jupyter notebook demonstrates the usage of both the classification and regression pipelines. It uses the well-known Iris dataset for classification and the Boston housing dataset for regression. The notebook includes step-by-step examples, providing a clear guide on how to implement the pipelines, perform hyperparameter tuning, and assess model performance.
 
@@ -30,6 +30,6 @@ This Jupyter notebook demonstrates the usage of both the classification and regr
    cd your-repository
    ```
 
-3. Run the `example_usage.ipynb` notebook in your Jupyter environment to see practical examples of using the classification and regression pipelines with sample datasets.
+3. Run the `Example_Usage.ipynb` notebook in your Jupyter environment to see practical examples of using the classification and regression pipelines with sample datasets.
 
 Feel free to customize the scripts and notebook according to your specific datasets and requirements.
